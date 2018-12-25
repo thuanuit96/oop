@@ -23,6 +23,7 @@
 
 class tinhtong{
     private $a;
+    private $mater;
     private $b;
     function  __construct($value1,$value2 ){
         $this->a=$value1;
