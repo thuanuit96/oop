@@ -31,7 +31,7 @@ class tinhtong{
     }
     public function get_tong($a){
 
-        $c=$a->a+$a->b;
+        $c= $a->a+$a->b;
         return $c;
     }
     public  function  set_vl($vl1,$vl2)
