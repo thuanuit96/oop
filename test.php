@@ -25,9 +25,7 @@ class tinhtong{
     private $a;
     private $mater;
     private $commit_branch_thuan_test;
-    private $mater2;
-
-
+    private $master2;
     private $b;
     function  __construct($value1,$value2 ){
         $this->a=$value1;
