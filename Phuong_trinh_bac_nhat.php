@@ -7,7 +7,7 @@
  */
 
 class Phuong_trinh_bac_nhat
-{
+{  //testtststttttttttttttadad
      var $a;
      var $b;
     //Phương thức khởi tạo
